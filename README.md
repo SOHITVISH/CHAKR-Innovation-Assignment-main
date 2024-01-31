@@ -6,6 +6,12 @@ UI ScreenShot:-
 
 CHAKR_UI.1
 
+![CHAKR_UI_1](/CHAKR_UI_1.png);
+
+![CHAKR_UI_2](/CHAKR_UI_2.png);
+
+![CHAKR_UI_3](/CHAKR_UI_3.png);
+
 ## Table of Contents
 
 - [Dashboard App with Dynamic Graph](#dashboard-app-with-dynamic-graph)
