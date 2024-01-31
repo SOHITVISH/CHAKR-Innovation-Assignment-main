@@ -2,6 +2,9 @@
 
 Vercel:- http://tinyurl.com/2ckhymzk
 
+UI ScreenShot:- 
+
+CHAKR_UI.1
 
 ## Table of Contents
 
